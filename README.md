@@ -1,2 +1,2 @@
-# spedrunru.github.io
+# spedrunru
 Alternative speedrun leaderboard in Minecraft
